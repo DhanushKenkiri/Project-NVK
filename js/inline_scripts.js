@@ -1,0 +1,1 @@
+{"props":{"pageProps":{}},"page":"/dashboard","query":{},"buildId":"a8dvrXEY9buQKl5_GBZRP","nextExport":true,"autoExport":true,"isFallback":false,"scriptLoader":[{"src":"https://assets.co.dev/files/codevscript.js","strategy":"afterInteractive"}]}
